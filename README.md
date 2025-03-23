@@ -6,3 +6,8 @@
 4. Created constant endpoint.ts to store the base API
 5. Created @types to store shared data types
 6. Created a React hook for fetch skips data
+
+## Get started
+
+1. pnpm install
+2. pnpm dev
